@@ -1,5 +1,6 @@
 # machine learning algorithms
-implementing some machine learning algorithms from scratch using octav / matlap which are : 
+implementing some machine learning algorithms from scratch using octav / matlap .
+## contents
 - Anamoly detection and recommender systems
 - k-means Clustering and PCA
 - Linear regression
